@@ -1,0 +1,6 @@
+{
+  "name": "StudySwap",
+  "description": "Student notes sharing platform with SQLite database, subjects, PDF upload, search, download, bookmarks, profile, and stats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
